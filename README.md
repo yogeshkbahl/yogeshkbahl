@@ -1,5 +1,5 @@
 ## Hi, I'm Yogesh 👋
-Pursuing AI/ML Engineering | Generative AI Specialization, agentic workflows, and data-driven solutions — from multi-agent LangGraph apps to forecasting, NLP, and predictive models.
+Completed AI/ML Engineering | Generative AI Specialization, and data-driven solutions — forecasting, NLP, and predictive models.
 
 ## 🤖 What I Build
 Local + cloud LLM applications
