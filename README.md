@@ -3,7 +3,29 @@ Completed AI/ML Engineering | Generative AI Specialization, and data-driven solu
 
 ## 🏅 Certifications
 
-**Claude Academy (Anthropic)**: course completion badges. Click any badge to verify it.
+### 🎓 Executive Post Graduate Certification in Data Science & Artificial Intelligence
+**iHUB DivyaSampark, IIT Roorkee** · in association with Intellipaat · a joint initiative of the Department of Science & Technology (Govt. of India) and IIT Roorkee
+
+<table>
+  <tr>
+    <td width="240" align="center">
+      <a href="certificates/iit-roorkee-executive-pg-data-science-ai.jpg"><img src="certificates/iit-roorkee-executive-pg-data-science-ai.jpg" alt="IIT Roorkee Executive PG Certification in Data Science & AI" width="220"/></a>
+    </td>
+    <td>
+      Completed IIT Roorkee's Executive PG program covering the full ML lifecycle:
+      <ul>
+        <li>Regression, classification and ensemble models (Random Forest, XGBoost)</li>
+        <li>Clustering, PCA and anomaly detection</li>
+        <li>NLP (TF-IDF, Word2Vec) and deep learning (CNNs)</li>
+        <li>MLOps: Docker, MLflow, DVC, BentoML, CI/CD, AWS and Azure deployment</li>
+      </ul>
+      📂 <b>All notes and runnable notebooks:</b> <a href="https://github.com/yogeshkbahl/IIT-Roorkee-ExecutiveProgram">IIT-Roorkee-ExecutiveProgram</a>
+    </td>
+  </tr>
+</table>
+
+### 🤖 Claude Academy (Anthropic)
+Course completion badges. Click any badge to verify it.
 
 <table>
   <tr>
